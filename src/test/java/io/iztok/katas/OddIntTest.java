@@ -1,6 +1,5 @@
 package io.iztok.katas;
 
-import io.iztok.katas.FindOdd;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
